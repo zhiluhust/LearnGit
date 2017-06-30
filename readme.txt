@@ -8,3 +8,4 @@ Conflication test.
 Conflication test2.
 
 Classmate add information.
+Iam studying.
